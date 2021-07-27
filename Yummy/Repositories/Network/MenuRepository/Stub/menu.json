@@ -1,0 +1,196 @@
+{
+   "id":"1010000001",
+   "name":"Yummy Resto Cafe",
+   "image":"https://amrfarouqa.website/MiniAs/Restaurant.jpg",
+   "menu":[
+      {
+         "name":"Salads and Soup",
+         "id":"11",
+         "image":"https://amrfarouqa.website/MiniAs/Salads%20and%20Soup/Group%20Image.jpg",
+         "dishes":[
+            {
+               "id":"100000001",
+               "name":"Spinach Salad",
+               "price":7.95,
+               "image":"https://amrfarouqa.website/MiniAs/Salads%20and%20Soup/Spinach%20Salad.jpg",
+               "description":"Fresh spinach, mushrooms, and hard-boiled egg served with warm bacon vinaigrette"
+            },
+            {
+               "id":"100000003",
+               "name":"Traditional New England Seafood Chowder",
+               "price":12.0,
+               "image":"https://amrfarouqa.website/MiniAs/Salads%20and%20Soup/Traditional%20New%20England%20Seafood%20Chowder.jpg",
+               "description":"with clams, scallops, and shrimp,"
+            },
+            {
+               "id":"100000004",
+               "name":"Salad Bar Soup",
+               "price":5.0,
+               "image":"https://amrfarouqa.website/MiniAs/Salads%20and%20Soup/Salad%20Bar%20Soup.jpg",
+               "description":"Flour Mixed with fresh green leafy vegetables"
+            },
+            {
+               "id":"100000005",
+               "name":"Chicken soup",
+               "price":14.89,
+               "image":"https://amrfarouqa.website/MiniAs/Salads%20and%20Soup/Low%20Carb%20Chicken%20Soup.jpg",
+               "description":"Fresh as home made chicken soup"
+            },
+            {
+               "id":"100000006",
+               "name":"One Pot Vegetarian",
+               "price":22.0,
+               "image":"https://amrfarouqa.website/MiniAs/Salads%20and%20Soup/One%20Pot%20Vegetarian%20Orzo%20Vegetable%20Soup.jpg",
+               "description":"One Pot Vegetarian Orzo Vegetable Soup"
+            },
+            {
+               "id":"100000007",
+               "name":"Low Carb Chicken Soup",
+               "price":25.0,
+               "image":"https://amrfarouqa.website/MiniAs/Salads%20and%20Soup/Fresh%20as%20home%20made%20chicken%20soup.jpg",
+               "description":"wholesomeyum low carb chicken soup with spaghetti squash paleo gluten free."
+            }
+         ]
+      },
+      {
+         "name":"From The Barnyard",
+         "id":"12",
+         "image":"https://amrfarouqa.website/MiniAs/From%20The%20Barnyard/Group%20Image.jpg",
+         "dishes":[
+            {
+               "id":"100000008",
+               "name":"Traditional Filet Mignon",
+               "price":24.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20The%20Barnyard/Traditional%20Filet%20Mignon.jpg",
+               "description":"A 6 oz tenderloin wrapped in bacon and served with pureed yukon gold potatoes and haricots verts."
+            },
+            {
+               "id":"100000009",
+               "name":"Bacon Bourbon Tenderloin Tips",
+               "price":16.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20The%20Barnyard/Bacon%20Bourbon%20Tenderloin%20Tips.jpg",
+               "description":"Tenderloin tips, sautéed with bacon and mushrooms and finished with a bourbon-BBQ sauce."
+            },
+            {
+               "id":"100000010",
+               "name":"Rustlers Ribeye",
+               "price":18.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20The%20Barnyard/Rustlers%20Ribeye.jpg",
+               "description":"Thick, hand-cut prime rib, grilled to order, served with a baked potato and seasonal vegetable medley."
+            },
+            {
+               "id":"100000011",
+               "name":"Surf and Turf",
+               "price":17.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20The%20Barnyard/Surf%20and%20Turf.jpg",
+               "description":"A grilled, queen-cut ribeye served with shrimp and scallop alfredo."
+            },
+            {
+               "id":"100000012",
+               "name":"Roast Pork Loin",
+               "price":23.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20The%20Barnyard/Roast%20Pork%20Loin.jpg",
+               "description":"Slow roasted pork loin finished with a portabella demi-glace. Served with marrow-scented couscous and wilted kale."
+            },
+            {
+               "id":"100000014",
+               "name":"Veal Saltimbocca",
+               "price":12.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20The%20Barnyard/Veal%20Saltimbocca.jpg",
+               "description":"Tender veal cutlets sautéed with fresh sage and prosciutto. Finished in the oven with mozzarella."
+            }
+         ]
+      },
+      {
+         "name":"From the Hen House",
+         "id":"13",
+         "image":"https://amrfarouqa.website/MiniAs/From%20the%20Hen%20House/Group%20Image.jpg",
+         "dishes":[
+            {
+               "id":"100000016",
+               "name":"A.D.’s Chicken Saltimbocca",
+               "price":22.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20the%20Hen%20House/Chicken%20Saltimbocca.jpg",
+               "description":"Boneless chicken breast sautéed with fresh sage and prosciutto. Finished in the oven with mozzarella."
+            },
+            {
+               "id":"100000017",
+               "name":"Emeril’s Chicken",
+               "price":15.0,
+               "image":"https://amrfarouqa.website/MiniAs/From%20the%20Hen%20House/Emeril%20Chicken.jpg",
+               "description":"Boneless chicken breast sautéed with mushrooms, spinach, artichoke hearts, fire-roasted red peppers, and sun-dried tomatoes."
+            }
+         ]
+      },
+      {
+         "name":"Fresh From The Sea",
+         "id":"14",
+         "image":"https://amrfarouqa.website/MiniAs/Fresh%20From%20The%20Sea/Group%20Image.jpg",
+         "dishes":[
+            {
+               "id":"100000018",
+               "name":"Seafood Sauté or Alfredo",
+               "price":25.0,
+               "image":"https://amrfarouqa.website/MiniAs/Fresh%20From%20The%20Sea/Seafood%20Sauteee%20or%20Alfredo.jpg",
+               "description":"Fresh haddock, sea scallops, gulf shrimp, and chef’s choice of ravioli tossed in your choice of sauce. With garlic and white wine."
+            },
+            {
+               "id":"100000019",
+               "name":"Sautéed Seafood Caprese",
+               "price":23.5,
+               "image":"https://amrfarouqa.website/MiniAs/Fresh%20From%20The%20Sea/Sauted%20Seafood%20Caprese.jpg",
+               "description":"Fresh haddock, gulf shrimp, and sea scallops sautéed with fresh tomatoes, basil, and garlic, finished with fresh mozzarella."
+            }
+         ]
+      },
+      {
+         "name":"Biryani",
+         "id":"15",
+         "image":"https://amrfarouqa.website/MiniAs/Biryani/Group%20Image.jpg",
+         "dishes":[
+            {
+               "id":"100000013",
+               "name":"Hyderabadi Biryani",
+               "price":11.0,
+               "image":"https://amrfarouqa.website/MiniAs/Biryani/Hyderabadi%20Biryani.jpg",
+               "description":"It's nothing but half-boiled rice layered with fried onions, mint, cooked meat and cooked dum style."
+            },
+            {
+               "id":"100000015",
+               "name":"Keema Biryani",
+               "price":21.0,
+               "image":"https://amrfarouqa.website/MiniAs/Biryani/Keema%20Biryani.jpg",
+               "description":"Cook up a storm by combining minced lamb with aromatic spices and crunchy nuts."
+            }
+         ]
+      },
+      {
+         "name":"Fast Food",
+         "id":"17",
+         "image":"https://amrfarouqa.website/MiniAs/Fast%20Food/Group%20Image.jpg",
+         "dishes":[
+            {
+               "id":"100000026",
+               "name":"Burger",
+               "price":30.0,
+               "image":"https://amrfarouqa.website/MiniAs/Fast%20Food/Burger.jpg",
+               "description":"Burger, Dill pickle, cheddar cheese, tomato, red onion, ground chuck beef."
+            },
+            {
+               "id":"100000027",
+               "name":"Pizza",
+               "price":50.0,
+               "image":"https://amrfarouqa.website/MiniAs/Fast%20Food/Pizza.jpg",
+               "description":"Ricotta cheese, mozzarella cheese and parmesan cheese."
+            },
+            {
+               "id":"100000029",
+               "name":"Tacos",
+               "price":25.0,
+               "image":"https://amrfarouqa.website/MiniAs/Fast%20Food/Tacos.jpg",
+               "description":"Mexican Street Tacos, Skirt steak, soy sauce, flour tortillas, red onion, lime juice."
+            }
+         ]
+      }
+   ]
+}
